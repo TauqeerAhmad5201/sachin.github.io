@@ -1,0 +1,17 @@
+.sach {
+    display: flex;
+    justify-content: center; 
+
+}
+.slang {
+    display: flex;
+    justify-content: center;
+    font-family: 'DynaPuff', cursive;
+    font-size: 5rem;
+}
+
+.dot {
+    display: flex;
+    justify-content: center; 
+    font-size: 3rem;
+   }
